@@ -1,0 +1,413 @@
+{
+    "places": [
+        {
+            "name": "Торговый центр “Мармелад”",
+            "address": "Ломоносова, 27",
+            "latitude": 58.53151226569753,
+            "longitude": 31.242583056365053,
+            "imageUrl": "https://i.novgorod.ru/news/albums/2018-12/bobryshev/980/16898.jpg"
+        },
+        
+        {
+            "name": "Торговый центр “Волна” ",
+            "address": "Большая Санкт-Петербургская, 39",
+            "latitude": 58.53889631880234,
+            "longitude": 31.26343476292528,
+            "imageUrl": "https://panevin.ru/uploads/blog/2018/velikiy_novgorod_1024-84.jpg"
+        },
+        
+        {
+            "name": "Торговый центр “Русь” ",
+            "address": "Большая Санкт-Петербургская, 25",
+            "latitude": 58.53305659485041,
+            "longitude": 31.26747517354906,
+            "imageUrl": "http://ic.pics.livejournal.com/ozertcov/19947123/770667/770667_original.jpg"
+        },
+        
+        {
+            "name": "Тетрис", 
+            "address": "Нехинская, 12",
+            "latitude": 58.52479177033212,
+            "longitude": 31.239354268104304,
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNkU2shn4OmXHlhUhl4BbC1p_gNyvqvsP0T9Rms=s680-w680-h510"
+        },
+        
+        {
+            "name": "Гипермаркет “Лента”",
+            "address": "Великая, 22",
+            "latitude": 58.542690640471726,
+            "longitude": 31.26701183477576,
+            "imageUrl": "https://i.novgorod.ru/news/images/33/73/957333/big_957333.jpg"
+        },
+        
+        {
+            "name": "Гипермаркет “Лента”" ,
+            "address": "Псковская, 33",
+            "latitude": 58.50580479537983,
+            "longitude": 31.230878451726348,
+            "imageUrl": "https://photobuildings.com/photo/00/88/48/88487.jpg"
+        },
+        
+        {
+            "name": "Спецодежда на народной ",
+            "address": "Народная 8а",
+            "description": "Здесь можно покупать медицинскую одежду.",
+            "latitude": 58.52861136150104,
+            "longitude": 31.30474500429909,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/4332216/2a0000017758da1eb22ef03c32cd6139a4e1/XXXL"
+        },
+        
+        {
+            "name": "ИГУМ ",
+            "address": "Антоново, 1",
+            "latitude": 58.54134981076744,
+            "longitude": 31.288361621667498,
+            "imageUrl": "https://scientificrussia.ru/images/4/2f44-full.jpg"
+        },
+        
+        {
+            "name": "ИБХИ" ,
+            "address": "Советской Армии, 7",
+            "latitude": 58.552196733836176,
+            "longitude": 31.300345994611817,
+            "imageUrl": "https://www.mpv-video.ru/photo/reg53/20180918-1609_390.jpg"
+        },
+        
+        {
+            "name": "ИМО",
+            "address": "Державина, 6",
+            "latitude": 58.54321709003858,
+            "longitude": 31.310754173225924,
+            "imageUrl": "https://i3.photo.2gis.com/images/branch/77/10836786637329281_bf05.jpg"
+        },
+        
+        {
+            "name": "ИЭИС ",
+            "address": "Большая Санкт-Петербургская, 41",
+            "latitude": 58.54196490285252,
+            "longitude": 31.261345103510582,
+            "imageUrl": "https://static.tildacdn.com/tild3137-3633-4633-b331-616639653836/big_955228.jpg"
+        },
+        
+        {
+            "name": "ИПТ ",
+            "address": "Большая Санкт-Петербургская, 41",
+            "latitude": 58.54196490285252,
+            "longitude": 31.261345103510582,
+            "imageUrl": "https://static.tildacdn.com/tild3137-3633-4633-b331-616639653836/big_955228.jpg"
+        },
+        
+        {
+            "name": "ИЦЭУС" ,
+            "address": "Псковская, 3",
+            "latitude": 58.522260260827316,
+            "longitude": 31.25853494567045,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/5965316/2a0000018042fbf34c31a0be061b98ca8ee3/orig"
+        },
+        
+        {
+            "name": "ИНПО" ,
+            "address": "Чудинцева, 6",
+            "latitude": 58.52389596144478,
+            "longitude": 31.262191143741074,
+            "imageUrl": "https://www.novsu.ru/upload/medialibrary/d6b/blewi35h6ixkwebz84qmjbmoc5ouwcgf/IMG_99257.jpg"
+        },
+        
+        {
+            "name": "ИЮР ",
+            "address": "Антоново, 1",
+            "latitude": 58.54134981076744,
+            "longitude": 31.288361621667498,
+            "imageUrl": "https://afishanovgorod.ru/wp-content/uploads/2018/04/antonovo.jpg"
+        },
+        
+        {
+            "name": "Политехнический колледж ",
+            "address": "Большая Санкт-Петербургская, 46",
+            "latitude": 58.54175230685095,
+            "longitude": 31.26442554096218,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/750075/2a0000016135caf093658d2412afad800d82/XXL_height"
+        },
+        
+        {
+            "name": "Медицинский колледж ",
+            "address": "Советской Армии, 7",
+            "latitude": 58.552196733836176,
+            "longitude": 31.300345994611817,
+            "imageUrl": "https://www.mpv-video.ru/photo/reg53/20180918-1609_390.jpg"
+        },
+        
+        {
+            "name": "ИНТЦ “Интеллектуальная Электроника - Валдай” ",
+            "address": "Великая, 18А",
+            "latitude": 58.538511406233106,
+            "longitude": 31.278288762667664,
+            "imageUrl": "https://gazetanovgorod.ru/wp-content/uploads/2023/09/img_20230901_133427_431.jpg"
+        },
+        
+        {
+            "name": "Общежитие №1 ",
+            "address": "Саши Устинова, 9",
+            "latitude": 58.538253065957186,
+            "longitude": 31.258048000000006,
+            "imageUrl": "https://static.mk.ru/upload/entities/2021/09/08/11/articles/facebookPicture/45/83/d1/72/8dc665cf5927441a0e564e080d98a432.jpg"
+        },
+        
+        {
+            "name": "Общежитие №2 ",
+            "address": "Парковая, 7",
+            "latitude": 58.54091656593333,
+            "longitude": 31.293001499999935,
+            "imageUrl": "https://53news.ru/wp-content/uploads/2022/04/obshhaga-evakuacziya.jpg"
+        },
+        
+        {
+            "name": "Общежитие №3 ",
+            "address": "Парковая, 9",
+            "latitude": 58.541460687603575,
+            "longitude": 31.292314854492123,
+            "imageUrl": "https://53news.ru/wp-content/uploads/2022/04/obshhaga-evakuacziya.jpg"
+        },
+        
+        {
+            "name": "Общежитие №4 ",
+            "address": "Менделеева, 3Б",
+            "latitude": 58.54009456593126,
+            "longitude": 31.25314349999994,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/236825/2a0000015b3ba50a411a48c02e8ba6647a25/XXL_height"
+        },
+        
+        {
+            "name": "Общежитие №5 ",
+            "address": "А. Корсунова, 36/3",
+            "latitude": 58.547158065918666,
+            "longitude": 31.231960999999984,
+            "imageUrl": "https://wikiway.com/upload/hl-photo/e8d/62e/velikiy-novgorod_7.jpg"
+        },
+        
+        {
+            "name":"Общежитие №6",
+            "address": "Парковая, 10",
+            "latitude": 58.541883518996435,
+            "longitude": 31.294532313491747,
+            "imageUrl": "https://i7.photo.2gis.com/images/branch/77/10836786637448044_1e7c.jpg"
+        },
+        
+        {
+            "name": "Общежитие №7 ",
+            "address": "Свободы, 4",
+            "latitude": 58.541320065903705,
+            "longitude": 31.240728499999957,
+            "imageUrl": "https://i7.photo.2gis.com/images/branch/77/10836786637448044_1e7c.jpg"
+        },
+        
+        {
+            "name": "Общежитие №8 ",
+            "address": "Советской Армии, 9",
+            "latitude": 58.55262806593274,
+            "longitude": 31.302954999999994,
+            "imageUrl": "https://gazon.media/userfls/news/large/3577_poselitsya-v-kampuse-kak-p.jpg"
+        },
+        
+        {
+            "name": "La Chatte ",
+            "address": "Большая Московская, 89",
+            "latitude": 58.53459883672817,
+            "longitude": 31.298535735691683,
+            "imageUrl": "https://autotravel.ru/phalbum/91262/150.jpg"
+        },
+        
+        {
+            "name": "Три толстяка ",
+            "address": "Большая Московская, 55",
+            "latitude": 58.5394946916578,
+            "longitude": 31.301179695770248,
+            "imageUrl": "https://i2.photo.2gis.com/images/branch/77/10836786648449512_6a3b.jpg"
+        },
+        
+        {
+            "name": "TOKИO-CITY ",
+            "address": "Людогоща, 2",
+            "latitude": 58.52384987134009,
+            "longitude": 31.270054568786634,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/9849468/2a00000189cff8c9a68199b26600fcaa22d8/XXXL"
+        },
+        
+        {
+            "name": "ПиццаФабрика ",
+            "address": "Большая Санкт-Петербургская, 39/22",
+            "latitude": 58.537621584727454,
+            "longitude": 31.260573161376882,
+            "imageUrl": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/197230/tI9VV79IbTc2qRlG7jVIxA.jpg"
+        },
+        
+        {
+            "name": "Дом Быта ",
+            "address": "Большая Санкт-Петербургская, 28",
+            "latitude": 58.53717187073493,
+            "longitude": 31.265957880950907,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/5298780/2a000001826a03a8d09625d3319f67e1c2c2/XXXL"
+        },
+        
+        {
+            "name": "Ледовый дворец (посещение бассейна/массовых катаний) ",
+            "address": "Космонавтов, 32",
+            "latitude": 58.52949156596545,
+            "longitude": 31.24978350000001,
+            "imageUrl": "https://travelto.top/assets/gallery/803/3474.jpg"
+        },
+        
+        {
+            "name": "Мираж Синема ",
+            "address": "Ломоносова, 27",
+            "latitude": 58.531490278443044,
+            "longitude": 31.242582173922777,
+            "imageUrl": "https://i.novgorod.ru/news/images/72/66/946672/big_946672.jpg"
+        },
+        
+        {
+            "name": "Кинотеатр Россия ",
+            "address": "Черняховского, 66",
+            "latitude": 58.524365565952195,
+            "longitude": 31.262773499999977,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/1779701/2a0000016ae32d7c1e85353a583521ac32b9/orig"
+        },
+        
+        {
+            "name": "Kolmovo Fitness ",
+            "address": "Сырковское ш., 2А",
+            "latitude": 58.55267056590208,
+            "longitude": 31.266267499999977,
+            "imageUrl": "https://i3.photo.2gis.com/images/branch/77/10836786610774789_4f21.jpg"
+        },
+        
+        {
+            "name": "Новгородский Кремль ",
+            "address": "Софийская набережная",
+            "latitude": 58.52147027847038,
+            "longitude": 31.27527651531315,
+            "imageUrl": "https://mf.b37mrtl.ru/rbthmedia/images/2019.11/original/5dd3f5ec15e9f957cf40d92a.jpg"
+        },
+        
+        {
+            "name": "Музей народного деревянного зодчества 'Витославлицы' ",
+            "address": "Юрьевское ш., 14",
+            "latitude": 58.49035245154158,
+            "longitude": 31.272315003583323,
+            "imageUrl": "https://map.autogoda.ru/wp-content/uploads/2019/06/%D0%92%D0%B8%D1%82%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D0%B8%D1%86%D1%8B6-1.jpg"
+        },
+        
+        {
+            "name": "Отдел по вопросам миграции УМВД РФ по городу Великий Новгород",
+            "address": "Большая Московская ул., 116/2",
+            "latitude": 58.54451356594257,
+            "longitude": 31.306143999999904,
+            "hours": "вт, пт - 10.00-13.00, 16.00-19.00 \nср, сб - 09.00-13.00 \nпн, чт, вс - приёма нет \nКаб. 7 - постановка на регистрацию по квартире, тел: 980-992 \nКаб. 10 - дактилоскопия, тел: 980-994",
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/2776464/2a000001704cc02f754cbc7985cb6e2ce5f9/XXL"
+        },
+        {
+            "name": "Управление по вопросам миграции УМВД России по Новгородской области ",
+            "address": "Людогоща, 5/68",
+            "latitude": 58.52489791143414,
+            "longitude": 31.262992007934557,
+            "hours": "пн-пт 08.30-18.00, перерыв 12.30-14.00 \nсб-вс - выходной",
+            "description": "Оформление виз. Приём строго по записи!",
+            "phone": "98-05-83",
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/5485499/2a00000180423588bcb9c0bc3cdf2415c641/XXXL"
+        },
+        
+        {
+            "name": "Управление по вопросам миграции УМВД России по Новгородской области ",
+            "address": "Московская, 7",
+            "latitude": 58.53351609430124,
+            "longitude": 31.302013466934188,
+            "hours": "пн-чт 09:00–18:00; \n пт 09:00–16:45 \nсб, вс - выходной",
+            "description": "По вопросам РВПО, РВП, ВНЖ",
+            "phone": "27-32-20",
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/953593/2a000001888d0493e1c401afadf59c8be4ca/XXXL"
+        },
+        {
+            "name": "ГОБУЗ Центр “Хелпер”",
+            "address": "Посольская д. 2",
+            "latitude": 58.51283206595329,
+            "longitude": 31.287341999999935,
+            "hours": "пн-пт 08.30–16.00 \nсб, вс - выходной",
+            "description": "Прохождение обязательного медицинского освидетельствования.",
+            "phone":"63-53-79",
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/1027639/2a00000188a7bb2fc5bfa3dd39f73e8b0519/XXXL"
+        },
+        {
+            "name": "Центр “Катарсис” ",
+            "address": "Яковлева д. 18",
+            "latitude": 58.529313065934254,
+            "longitude": 31.27357100000001,
+            "hours": "пн–пт 08:00–17:00 \n сб, вс - выходной",
+            "description": "Прохождение нарколога для обязательного медицинского освидетельствования.",
+            "phone": "63‒67‒45",
+            "imageUrl": "https://i6.photo.2gis.com/images/branch/77/10836786622771447_9868.jpg"
+        },
+        {
+            "name": "Кожно-венерологический диспансер ",
+            "address": "Дворцовая 10/6",
+            "latitude": 58.52124506597493,
+            "longitude": 31.286407999999984,
+            "description": "Прохождение дерматолога для обязательного медицинского освидетельствования.",
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/5596516/2a0000017ebfd932359cc4a901af6847444a/XXL_height"
+        },
+        {
+            "name": "Хостел «Ярослав»",
+            "address": "ул. Посольская д. 4/2",
+            "latitude": 58.51269106595299,
+            "longitude": 31.28851,
+            "imageUrl": "https://yahostel.ru/templates/ya-2-0/img/ga/ga-20.jpg",
+            "description": "Здесь можно остановиться, если не заселили в общежитие, и сделать регистрацию.",
+            "phone": "+7 (911) 600-03-66"
+        },
+        {
+            "name": "БМ-Хостел ",
+            "address": "Большая Санкт-Петербургская д. 14",
+            "latitude": 58.529144666225854,
+            "longitude": 31.271995992065374,
+            "imageUrl": "https://i8.photo.2gis.com/images/branch/77/10836786617842843_c4b9.jpg",
+            "description": "Здесь можно остановиться, если не заселили в общежитие, и сделать регистрацию.",
+            "phone":"+7 (963) 368-64-65"
+        },
+        {
+            "name": "Хостел “Академ ВН”",
+            "address": "ул. Саши Устинова д. 3/1",
+            "imageUrl": "https://vashotel-a.akamaihd.net/0000001536525274/2ad2c2bad54366cfec6ff484e972de7a.jpg",
+            "latitude": 58.5407185659329,
+            "longitude": 31.25805699999999,
+            "description": "Здесь можно остановиться, если не заселили в общежитие, и сделать регистрацию.",
+            "phone": "+7 (8162) 92-44-90"
+        },
+        {
+            "name": "НОКБ ",
+            "address": "Павла Левитта 3",
+            "latitude": 58.55332306593455,
+            "longitude": 31.275816499999948,
+            "imageUrl": "https://hb.bizmrg.com/medvisor.ru/iblock/7c5/7c5e1ecafcc717ba67d6664e253dfb0e/cf22de68aa25ef97a2a3b86f04fbb8e5.jpg"
+        },
+        {
+            "name": "Поликлиника Волна",
+            "address": "Б. Санкт-Петербургская 44",
+            "latitude": 58.54075946843276,
+            "longitude": 31.26417641425866,
+            "imageUrl": "https://poliklinika-volna.ru/bitrix/templates/main/img/volna-photo.jpg"
+        },
+        {
+            "name": "ВивоКлиник",
+            "address": "Маловишерская 5к1",
+            "latitude": 58.539126565928754,
+            "longitude": 31.30656599999997,
+            "imageUrl": "https://cdn.docdoc.ru/clinic/photos/124600_104504.png"
+        },
+        {
+            "name": "На Рахманинова",
+            "address": "Рахманинова 10",
+            "latitude": 58.54053106590164,
+            "longitude": 31.30873099999993,
+            "imageUrl": "https://avatars.mds.yandex.net/get-altay/406255/2a00000162c6037c6caa5d5b0e1240515fa6/XXXL"
+        }
+    ]
+}

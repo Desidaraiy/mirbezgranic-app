@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBHd13xg5egPUaSPWuS_Ho14YKK0jxjm4I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>29027044849</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mirbezgranic.novsuru</string>
+	<key>PROJECT_ID</key>
+	<string>mirbezgranic-6a994</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mirbezgranic-6a994.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:29027044849:ios:4397dcc7a7f30bfbcd8850</string>
+	<key>DATABASE_URL</key>
+	<string>https://mirbezgranic-6a994-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

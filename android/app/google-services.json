@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "29027044849",
+    "firebase_url": "https://mirbezgranic-6a994-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mirbezgranic-6a994",
+    "storage_bucket": "mirbezgranic-6a994.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29027044849:android:fd2b29f405cac75ecd8850",
+        "android_client_info": {
+          "package_name": "com.mirbezgranic.novsuru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYk0JlLu-POKKUTuyux5AN3DlkaulWu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
